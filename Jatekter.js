@@ -2,7 +2,7 @@ import Elem from "./Elem.js";
 
 class Jatekter{
     /*előállítja a játékot*/
-    constructor(szuloElem){
+    constructor(szuloElem , n){
         for (let index = 0; index < 9; index++) {
             new Elem(szuloElem)
                

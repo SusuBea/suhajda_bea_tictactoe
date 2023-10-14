@@ -1,5 +1,6 @@
 .elem{
-
+    text-align: center;
+    font-size: 50px;
     border: 1px solid gray;
 }
 
@@ -15,5 +16,6 @@ body{
 
 .elem p{
     padding: 0;
-    margin: 0;
+    margin: 20px 0 0 0;
+    
 }
