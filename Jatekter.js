@@ -4,7 +4,7 @@ class Jatekter{
     /*előállítja a játékot*/
     constructor(szuloElem){
         for (let index = 0; index < 9; index++) {
-            new Elem(szuloelem)
+            new Elem(szuloElem)
                
            }
            
